@@ -1,0 +1,7 @@
+{
+    "products": [
+      { "id": 1, "name": "RTX 6090", "price": 34500, "image":"./public/RTX6090.jpeg" },
+      { "id": 2, "name": "Memória Ram 240 GBs", "price": 2000, "image":"./public/Ram.jpg"  },
+      { "id": 3, "name": "Intel I11 19400h", "price": 16000, "image":"./public/I11 19400h.jpg"}
+    ]
+  }
